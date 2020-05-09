@@ -1,0 +1,1584 @@
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 79 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\bed.cpp
+FIXME: should be stored as 64-bit, but we need to retain backwards compatibility
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 99 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\chat.cpp
+TODO: Move to script when guild channels can be scripted
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 725 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+TODO: infight condition until all aggressive conditions has ended
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 786 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+TODO: infight condition until all aggressive conditions has ended
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 914 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+TODO: infight condition until all aggressive conditions has ended
+
+STANDARD: Potential Memory Mis-management. Variable Name: tile
+new without delete.
+Line: 1191 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: areas[it.first]
+new without delete.
+Line: 1191 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1169 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: area
+new without delete.
+Line: 1191 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1169 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1295 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: southArea
+new without delete.
+Line: 1191 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1169 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1295 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1329 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: eastArea
+new without delete.
+Line: 1191 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1169 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1295 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1329 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1334 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: westArea
+new without delete.
+Line: 1191 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1169 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1295 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1329 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1334 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1339 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: neArea
+new without delete.
+Line: 1191 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1169 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1295 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1329 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1334 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1339 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1429 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: swArea
+new without delete.
+Line: 1191 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1169 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1295 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1329 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1334 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1339 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1429 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1434 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: seArea
+new without delete.
+Line: 1191 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1169 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1295 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1329 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1334 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1339 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1429 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1434 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+new without delete.
+Line: 1439 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: data_
+new [] without delete.
+Line: 101 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.h
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: data_[row]
+new [] without delete.
+Line: 101 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.h
+
+new [] without delete.
+Line: 104 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\combat.h
+
+
+MEDIUM: Potentially Unsafe Code - memcpy
+Line: 354 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\condition.cpp
+Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions and other memory mis-management situations.
+		memcpy(skills, conditionAttrs.skills, sizeof(skills));
+
+MEDIUM: Potentially Unsafe Code - memcpy
+Line: 355 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\condition.cpp
+Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions and other memory mis-management situations.
+		memcpy(specialSkills, conditionAttrs.specialSkills, sizeof(specialSkills));
+
+MEDIUM: Potentially Unsafe Code - memcpy
+Line: 356 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\condition.cpp
+Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions and other memory mis-management situations.
+		memcpy(skillsPercent, conditionAttrs.skillsPercent, sizeof(skillsPercent));
+
+MEDIUM: Potentially Unsafe Code - memcpy
+Line: 357 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\condition.cpp
+Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions and other memory mis-management situations.
+		memcpy(stats, conditionAttrs.stats, sizeof(stats));
+
+MEDIUM: Potentially Unsafe Code - memcpy
+Line: 358 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\condition.cpp
+Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions and other memory mis-management situations.
+		memcpy(statsPercent, conditionAttrs.statsPercent, sizeof(statsPercent));
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 1628 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\condition.cpp
+TODO: color and level could be serialized as 8-bit if we can retain backwards
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 200 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\const.h
+FIXME Blue message in the console*/
+
+MEDIUM: Potentially Unsafe Code - memcpy
+Line: 499 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\creature.cpp
+Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions and other memory mis-management situations.
+						memcpy(localMapCache[y + 1], localMapCache[y], sizeof(localMapCache[y]));
+
+MEDIUM: Potentially Unsafe Code - memcpy
+Line: 510 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\creature.cpp
+Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions and other memory mis-management situations.
+						memcpy(localMapCache[y], localMapCache[y + 1], sizeof(localMapCache[y]));
+
+STANDARD: Potential Memory Mis-management. Variable Name: condition
+7 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 1296 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\creature.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: VirtualCylinder::virtualCylinder
+new without delete.
+Line: 24 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\cylinder.cpp
+
+
+MEDIUM: Potentially Unsafe Code - goto
+Line: 147 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\database.cpp
+Use of 'goto' function. The goto function can result in unstructured code which is difficult to maintain and can result in failures to initialise or de-allocate memory.
+		goto retry;
+
+STANDARD: Potential Memory Mis-management. Variable Name: output
+new [] without delete.
+Line: 174 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\database.cpp
+
+
+MEDIUM: Potentially Unsafe Code - memcpy
+Line: 90 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\fileloader.h
+Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions and other memory mis-management situations.
+			memcpy(&ret, p, sizeof(T));
+
+MEDIUM: Potentially Unsafe Code - memcpy
+Line: 106 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\fileloader.h
+Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions and other memory mis-management situations.
+			memcpy(str, p, strLen);
+
+STANDARD: Potential Memory Mis-management. Variable Name: str
+new [] without delete.
+Line: 105 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\fileloader.h
+
+
+STANDARD: Potentially Unsafe Code - strlen
+Line: 486 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+Function appears in Microsoft's banned function list. For critical applications, particularly applications accepting anonymous Internet connections or unverified input data, strlen and similar functions can become victims of integer overflow or 'wraparound' errors.
+	size_t strlen = s.length();
+
+STANDARD: Potentially Unsafe Code - strlen
+Line: 487 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+Function appears in Microsoft's banned function list. For critical applications, particularly applications accepting anonymous Internet connections or unverified input data, strlen and similar functions can become victims of integer overflow or 'wraparound' errors.
+	if (strlen == 0 || strlen > 20) {
+
+STANDARD: Potentially Unsafe Code - strlen
+Line: 492 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+Function appears in Microsoft's banned function list. For critical applications, particularly applications accepting anonymous Internet connections or unverified input data, strlen and similar functions can become victims of integer overflow or 'wraparound' errors.
+		const std::string& query = asLowerCaseString(s.substr(0, strlen - 1));
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 5072 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+TODO: move debug assertions to database
+
+STANDARD: Potentially Unsafe Code - fopen
+Line: 5073 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+Function used to open file. Carry out a manual check to ensure that user cannot modify filename for malicious purposes and that file is not 'opened' more than once simultaneously.
+	FILE* file = fopen("client_assertions.txt", "a");
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 5584 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+offline training, hardcoded
+
+STANDARD: Potential Memory Mis-management. Variable Name: parentContainer
+new without delete.
+Line: 2279 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: container
+new without delete.
+Line: 2279 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+
+new without delete.
+Line: 2447 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: party
+new without delete.
+Line: 2279 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+
+new without delete.
+Line: 2447 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+
+new without delete.
+Line: 4919 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: item
+new without delete.
+Line: 2279 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+
+new without delete.
+Line: 2447 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+
+new without delete.
+Line: 4919 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+
+6 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 5451 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: buyerPlayer
+new without delete.
+Line: 2279 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+
+new without delete.
+Line: 2447 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+
+new without delete.
+Line: 4919 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+
+6 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 5451 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 5417 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\game.cpp
+
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 225 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\globalevent.cpp
+TODO: This should be better implemented. Maybe have a map for every type.
+
+STANDARD: Potential Memory Mis-management. Variable Name: transferItem
+new without delete.
+Line: 380 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\house.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: house
+new without delete.
+Line: 288 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\house.h
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: guild
+new without delete.
+Line: 32 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\ioguild.cpp
+
+
+HIGH: Potentially Unsafe Code - Signed/Unsigned Comparison
+Line: 404 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\iologindata.cpp
+The code appears to compare a signed numeric value with an unsigned numeric value. This behaviour can return unexpected results as negative numbers will be forcibly cast to large positive numbers.
+	for (uint8_t i = 0; i < size; ++i) {
+
+STANDARD: Potential Memory Mis-management. Variable Name: tile
+new without delete.
+Line: 267 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\iomap.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: item
+new without delete.
+Line: 267 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\iomap.cpp
+
+3 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 373 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\iomap.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: ground_item
+new without delete.
+Line: 267 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\iomap.cpp
+
+3 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 373 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\iomap.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 384 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\iomap.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: town
+new without delete.
+Line: 267 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\iomap.cpp
+
+3 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 373 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\iomap.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 384 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\iomap.cpp
+
+new without delete.
+Line: 428 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\iomap.cpp
+
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 119 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\iomap.h
+lets guess it is mapname-spawn.xml.
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 134 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\iomap.h
+lets guess it is mapname-house.xml.
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 226 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\iomapserialize.cpp
+Hack our way into the attributes
+
+STANDARD: Potential Memory Mis-management. Variable Name: item
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 162 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\iomapserialize.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: player
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 179 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\iomarket.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: item
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 179 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\iomarket.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 171 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\iomarket.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: newItem
+new without delete.
+Line: 99 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\item.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: attr.value.string
+new without delete.
+Line: 99 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\item.cpp
+
+new without delete.
+Line: 1647 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\item.cpp
+
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 289 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\item.h
+This is hard coded so it's not general, depends on the position of the variants.
+
+STANDARD: Potential Memory Mis-management. Variable Name: value.string
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 396 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\item.h
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: value.custom
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 396 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\item.h
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 398 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\item.h
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: getAttr(ITEM_ATTRIBUTE_CUSTOM).value.custom
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 396 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\item.h
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 398 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\item.h
+
+new without delete.
+Line: 464 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\item.h
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: conditionDamage
+new without delete.
+Line: 1178 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\items.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: p
+new without delete.
+Line: 62 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\lockfree.h
+
+
+MEDIUM: Potentially Unsafe Code - assert
+Line: 538 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+The 'assert' macro usually only exists for code in the debug build. In general, no check will take place in production code. Verify that this check does not perform any critical function and is not being used in place of error handling.
+assert(interface);
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 4079 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+FIXME: Should only catch some exceptions
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 7902 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+FIXME: workaround for #2251
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 12260 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+get: monsterType:canPushItems() set: monsterType:canPushItems(bool)
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 13690 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+party:removeMember(player)
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 15980 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+TODO: get children, reload children
+
+STANDARD: Potential Memory Mis-management. Variable Name: newItem
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 3412 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: item
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 3412 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+4 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 8829 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: monster
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 3412 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+4 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 8829 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 4308 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: tile
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 3412 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+4 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 8829 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 4308 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 4357 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: loot
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 3412 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+4 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 8829 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 4308 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 4357 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13110 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: spell
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 3412 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+4 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 8829 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 4308 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 4357 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13110 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13782 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: party
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 3412 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+4 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 8829 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 4308 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 4357 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13110 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13782 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13529 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: action
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 3412 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+4 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 8829 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 4308 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 4357 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13110 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13782 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13529 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14581 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: talk
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 3412 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+4 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 8829 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 4308 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 4357 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13110 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13782 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13529 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14581 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14736 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: creature
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 3412 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+4 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 8829 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 4308 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 4357 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13110 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13782 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13529 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14581 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14736 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14802 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: moveevent
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 3412 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+4 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 8829 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 4308 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 4357 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13110 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13782 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13529 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14581 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14736 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14802 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14898 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: global
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 3412 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+4 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 8829 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 4308 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 4357 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13110 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13782 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13529 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14581 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14736 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14802 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14898 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 15196 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: weapon
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 3412 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+4 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 8829 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 4308 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 4357 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13110 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13782 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13529 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14581 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14736 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14802 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14898 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 15196 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 15374 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: testInterface
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 3412 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+4 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 8829 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 4308 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 4357 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13110 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13782 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13529 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14581 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14736 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14802 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14898 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 15196 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 15374 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 16020 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: combat
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 3412 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+4 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 8829 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 4308 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 4357 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13110 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13782 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13529 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14581 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14736 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14802 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14898 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 15196 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 15374 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 16020 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 16037 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: itt->second
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 3412 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+4 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 8829 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 4308 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 4357 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13110 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13782 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13529 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14581 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14736 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14802 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14898 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 15196 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 15374 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 16020 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 16037 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 16086 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: areaMap[++lastAreaId]
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 3412 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+4 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 8829 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 4308 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 4357 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13110 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13782 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 13529 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14581 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14736 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14802 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 14898 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 15196 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 15374 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 16020 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 16037 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 16086 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+new without delete.
+Line: 16071 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.cpp
+
+
+MEDIUM: Potentially Unsafe Code - assert
+Line: 219 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.h
+The 'assert' macro usually only exists for code in the debug build. In general, no check will take place in production code. Verify that this check does not perform any critical function and is not being used in place of error handling.
+			assert(scriptEnvIndex >= 0 && scriptEnvIndex < 16);
+
+MEDIUM: Potentially Unsafe Code - assert
+Line: 228 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\luascript.h
+The 'assert' macro usually only exists for code in the debug build. In general, no check will take place in production code. Verify that this check does not perform any critical function and is not being used in place of error handling.
+			assert(scriptEnvIndex >= 0);
+
+MEDIUM: Potentially Unsafe Code - assert
+Line: 804 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\map.cpp
+The 'assert' macro usually only exists for code in the debug build. In general, no check will take place in production code. Verify that this check does not perform any critical function and is not being used in place of error handling.
+	assert(index < MAX_NODES);
+
+MEDIUM: Potentially Unsafe Code - assert
+Line: 812 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\map.cpp
+The 'assert' macro usually only exists for code in the debug build. In general, no check will take place in production code. Verify that this check does not perform any critical function and is not being used in place of error handling.
+	assert(index < MAX_NODES);
+
+MEDIUM: Potentially Unsafe Code - assert
+Line: 938 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\map.cpp
+The 'assert' macro usually only exists for code in the debug build. In general, no check will take place in production code. Verify that this check does not perform any critical function and is not being used in place of error handling.
+	assert(iter != creature_list.end());
+
+MEDIUM: Potentially Unsafe Code - assert
+Line: 944 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\map.cpp
+The 'assert' macro usually only exists for code in the debug build. In general, no check will take place in production code. Verify that this check does not perform any critical function and is not being used in place of error handling.
+		assert(iter != player_list.end());
+
+STANDARD: Potential Memory Mis-management. Variable Name: ptr
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 914 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\map.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: child[index]
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 914 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\map.cpp
+
+new without delete.
+Line: 899 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\map.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: array[z]
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 914 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\map.cpp
+
+new without delete.
+Line: 899 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\map.cpp
+
+new without delete.
+Line: 921 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\map.cpp
+
+
+MEDIUM: Potentially Unsafe Code - assert
+Line: 306 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\monster.cpp
+The 'assert' macro usually only exists for code in the debug build. In general, no check will take place in production code. Verify that this check does not perform any critical function and is not being used in place of error handling.
+	assert(creature != this);
+
+MEDIUM: Potentially Unsafe Code - assert
+Line: 324 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\monster.cpp
+The 'assert' macro usually only exists for code in the debug build. In general, no check will take place in production code. Verify that this check does not perform any critical function and is not being used in place of error handling.
+	assert(creature != this);
+
+MEDIUM: Potentially Unsafe Code - assert
+Line: 1193 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\monster.cpp
+The 'assert' macro usually only exists for code in the debug build. In general, no check will take place in production code. Verify that this check does not perform any critical function and is not being used in place of error handling.
+	assert(attackedCreature != nullptr);
+
+STANDARD: Potential Memory Mis-management. Variable Name: spell
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 654 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\monsters.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: combat
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 654 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\monsters.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 487 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\monsters.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: area
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 654 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\monsters.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 487 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\monsters.cpp
+
+new without delete.
+Line: 595 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\monsters.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: combatSpell
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 654 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\monsters.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 487 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\monsters.cpp
+
+new without delete.
+Line: 595 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\monsters.cpp
+
+new without delete.
+Line: 762 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\monsters.cpp
+
+
+MEDIUM: Potentially Unsafe Code - memcpy
+Line: 59 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\networkmessage.cpp
+Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions and other memory mis-management situations.
+	memcpy(buffer + info.position, value.c_str(), stringLen);
+
+MEDIUM: Potentially Unsafe Code - memcpy
+Line: 76 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\networkmessage.cpp
+Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions and other memory mis-management situations.
+	memcpy(buffer + info.position, bytes, size);
+
+MEDIUM: Potentially Unsafe Code - memcpy
+Line: 72 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\networkmessage.h
+Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions and other memory mis-management situations.
+			memcpy(&v, buffer + info.position, sizeof(T));
+
+MEDIUM: Potentially Unsafe Code - memcpy
+Line: 101 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\networkmessage.h
+Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions and other memory mis-management situations.
+			memcpy(buffer + info.position, &value, sizeof(T));
+
+STANDARD: Potential Memory Mis-management. Variable Name: scriptInterface
+new without delete.
+Line: 90 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\npc.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: item
+new without delete.
+Line: 90 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\npc.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 940 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\npc.cpp
+
+
+MEDIUM: Potentially Unsafe Code - memcpy
+Line: 56 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\outputmessage.h
+Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions and other memory mis-management situations.
+			memcpy(buffer + info.position, msg.getBuffer() + 8, msgLen);
+
+MEDIUM: Potentially Unsafe Code - memcpy
+Line: 63 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\outputmessage.h
+Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions and other memory mis-management situations.
+			memcpy(buffer + info.position, msg->getBuffer() + 8, msgLen);
+
+MEDIUM: Potentially Unsafe Code - assert
+Line: 71 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\outputmessage.h
+The 'assert' macro usually only exists for code in the debug build. In general, no check will take place in production code. Verify that this check does not perform any critical function and is not being used in place of error handling.
+			assert(outputBufferStart >= sizeof(T));
+
+MEDIUM: Potentially Unsafe Code - memcpy
+Line: 73 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\outputmessage.h
+Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions and other memory mis-management situations.
+			memcpy(buffer + outputBufferStart, &add, sizeof(T));
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 410 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\player.cpp
+Game client debugs with 10 or more icons
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 1246 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\player.cpp
+TODO: This shouldn't be hardcoded
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 2948 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\player.cpp
+Check if we owned the old container too, so we don't need to do anything,
+
+MEDIUM: Potentially Unsafe Code - assert
+Line: 2950 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\player.cpp
+The 'assert' macro usually only exists for code in the debug build. In general, no check will take place in production code. Verify that this check does not perform any critical function and is not being used in place of error handling.
+		assert(i ? i->getContainer() != nullptr : true);
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 3002 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\player.cpp
+Check if we owned the old container too, so we don't need to do anything,
+
+MEDIUM: Potentially Unsafe Code - assert
+Line: 3004 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\player.cpp
+The 'assert' macro usually only exists for code in the debug build. In general, no check will take place in production code. Verify that this check does not perform any critical function and is not being used in place of error handling.
+		assert(i ? i->getContainer() != nullptr : true);
+
+STANDARD: Potential Memory Mis-management. Variable Name: depotChest
+new without delete.
+Line: 782 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\player.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: depotLocker
+new without delete.
+Line: 782 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\player.cpp
+
+new without delete.
+Line: 797 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\player.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: condition
+new without delete.
+Line: 782 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\player.cpp
+
+new without delete.
+Line: 797 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\player.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 2064 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\player.cpp
+
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 1208 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\player.h
+TODO: This variable is only temporarily used when logging in, get rid of it somehow
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 1845 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\protocolgame.cpp
+TODO: chance to hit, range
+
+SUSPICIOUS COMMENT: Comment Indicates Potentially Unfinished Code - 
+ Line: 2438 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\protocolgame.cpp
+can report bugs?
+
+STANDARD: Potential Memory Mis-management. Variable Name: player
+new without delete.
+Line: 62 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\protocolgame.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: raid
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 160 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\raids.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: monster
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 160 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\raids.cpp
+
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 544 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\raids.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: task
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 67 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scheduler.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: g_events
+new without delete.
+Line: 120 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: g_weapons
+new without delete.
+Line: 120 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 76 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: g_spells
+new without delete.
+Line: 120 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 76 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 84 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: g_actions
+new without delete.
+Line: 120 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 76 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 84 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 90 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: g_talkActions
+new without delete.
+Line: 120 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 76 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 84 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 90 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 96 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: g_moveEvents
+new without delete.
+Line: 120 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 76 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 84 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 90 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 96 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 102 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: g_chat
+new without delete.
+Line: 120 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 76 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 84 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 90 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 96 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 102 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 74 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: g_creatureEvents
+new without delete.
+Line: 120 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 76 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 84 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 90 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 96 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 102 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 74 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 108 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: g_globalEvents
+new without delete.
+Line: 120 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 76 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 84 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 90 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 96 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 102 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 74 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 108 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 114 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: g_scripts
+new without delete.
+Line: 120 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 76 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 84 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 90 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 96 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 102 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 74 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 108 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 114 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+new without delete.
+Line: 67 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\scriptmanager.cpp
+
+
+MEDIUM: Potentially Unsafe Code - assert
+Line: 43 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\server.cpp
+The 'assert' macro usually only exists for code in the debug build. In general, no check will take place in production code. Verify that this check does not perform any critical function and is not being used in place of error handling.
+	assert(!running);
+
+HIGH: Potentially Unsafe Code - Signed/Unsigned Comparison
+Line: 55 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\spectators.h
+The code appears to compare a signed numeric value with an unsigned numeric value. This behaviour can return unexpected results as negative numbers will be forcibly cast to large positive numbers.
+		for (size_t i = 0, len = vec.size(); i < len; i++) {
+
+STANDARD: Potential Memory Mis-management. Variable Name: tile
+new without delete.
+Line: 701 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\spells.cpp
+
+
+STANDARD: Potential Memory Mis-management. Variable Name: task
+2 delete 
+Multiple deletes detected. Check code paths manually to ensure that variables cannot be deleted more than once.
+Line: 84 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\tasks.cpp
+
+
+MEDIUM: Potentially Unsafe Code - assert
+Line: 59 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\tile.cpp
+The 'assert' macro usually only exists for code in the debug build. In general, no check will take place in production code. Verify that this check does not perform any critical function and is not being used in place of error handling.
+	assert(exclude);
+
+STANDARD: Potentially Unsafe Code - fopen
+Line: 31 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\tools.cpp
+Function used to open file. Carry out a manual check to ensure that user cannot modify filename for malicious purposes and that file is not 'opened' more than once simultaneously.
+	FILE* file = fopen(fileName.c_str(), "rb");
+
+HIGH: Potentially Unsafe Code - Signed/Unsigned Comparison
+Line: 66 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\tools.cpp
+The code appears to compare a signed numeric value with an unsigned numeric value. This behaviour can return unexpected results as negative numbers will be forcibly cast to large positive numbers.
+	for (size_t i = 0; i < lineOffsetPosition; i++) {
+
+MEDIUM: Potentially Unsafe Code - sprintf
+Line: 353 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\tools.cpp
+Function appears in Microsoft's banned function list. Can facilitate format string bugs.
+	int res = sprintf(buffer, "%u.%u.%u.%u", ip & 0xFF, (ip >> 8) & 0xFF, (ip >> 16) & 0xFF, (ip >> 24));
+
+MEDIUM: Potentially Unsafe Code - sprintf
+Line: 369 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\tools.cpp
+Function appears in Microsoft's banned function list. Can facilitate format string bugs.
+	int res = sprintf(buffer, "%02d/%02d/%04d %02d:%02d:%02d", tms->tm_mday, tms->tm_mon + 1, tms->tm_year + 1900, tms->tm_hour, tms->tm_min, tms->tm_sec);
+
+HIGH: Potentially Unsafe Code - Signed/Unsigned Comparison
+Line: 81 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\weapons.cpp
+The code appears to compare a signed numeric value with an unsigned numeric value. This behaviour can return unexpected results as negative numbers will be forcibly cast to large positive numbers.
+	for (size_t i = 100, size = Item::items.size(); i < size; ++i) {
+
+STANDARD: Potential Memory Mis-management. Variable Name: weapon
+new without delete.
+Line: 103 FileName: C:\Users\Anderson\Documents\GitHub\forgottenserver\src\weapons.cpp
+
+
+MEDIUM: Potentially Unsafe Code - assert
+Line: 25 - C:\Users\Anderson\Documents\GitHub\forgottenserver\src\xtea.cpp
+The 'assert' macro usually only exists for code in the debug build. In general, no check will take place in production code. Verify that this check does not perform any critical function and is not being used in place of error handling.
+#include <assert.h>
+
+
